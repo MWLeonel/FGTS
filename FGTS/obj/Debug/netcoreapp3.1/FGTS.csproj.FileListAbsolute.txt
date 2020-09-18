@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\bin\Debug\netcoreapp3.1\FGTS.exe
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\bin\Debug\netcoreapp3.1\FGTS.deps.json
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\bin\Debug\netcoreapp3.1\FGTS.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\bin\Debug\netcoreapp3.1\FGTS.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\bin\Debug\netcoreapp3.1\FGTS.dll
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\bin\Debug\netcoreapp3.1\FGTS.pdb
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\obj\Debug\netcoreapp3.1\FGTS.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\obj\Debug\netcoreapp3.1\FGTS.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\obj\Debug\netcoreapp3.1\FGTS.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\obj\Debug\netcoreapp3.1\FGTS.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\obj\Debug\netcoreapp3.1\FGTS.dll
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\obj\Debug\netcoreapp3.1\FGTS.pdb
+C:\Users\Max Leonel\Desktop\FGTS\FGTS\obj\Debug\netcoreapp3.1\FGTS.genruntimeconfig.cache
